@@ -1,0 +1,109 @@
+# Number of view classes (excluding background)
+3
+
+# Class transition 1 -> 2 spatial (2D) offset mean
+-0.00563957897734418 0.0008520732166687886
+
+# Class transition 1 -> 2 spatial (2D) offset covariance
+0.0021885907797486097 -0.0001258043788034591 -0.0001258043788034591 0.0019706751495562227
+
+# Class transition 1 -> 3 spatial (2D) offset mean
+-0.041644598699401195 0.2406388067492745
+
+# Class transition 1 -> 3 spatial (2D) offset covariance
+0.06622173507616155 -0.0010302625024804105 -0.0010302625024804105 0.012016402860207132
+
+# Class transition 2 -> 1 spatial (2D) offset mean
+0.005804718185678705 -0.000985272357557727
+
+# Class transition 2 -> 1 spatial (2D) offset covariance
+0.0021989540240608847 -0.0001527213307908396 -0.0001527213307908396 0.0019581495476856986
+
+# Class transition 2 -> 3 spatial (2D) offset mean
+-0.15828815189178605 0.14737450481888986
+
+# Class transition 2 -> 3 spatial (2D) offset covariance
+0.02933720366628475 -0.005848690661520388 -0.005848690661520388 0.02573309634732214
+
+# Class transition 3 -> 1 spatial (2D) offset mean
+0.26602229572708536 -0.08455685416204717
+
+# Class transition 3 -> 1 spatial (2D) offset covariance
+0.023546500805681884 0.019113537323536003 0.019113537323536003 0.034384508802751505
+
+# Class transition 3 -> 2 spatial (2D) offset mean
+0.21173908633036054 0.03889532028392142
+
+# Class transition 3 -> 2 spatial (2D) offset covariance
+0.032704454773462746 0.006356397959133357 0.006356397959133357 0.022800237865362557
+
+# Class transition 1 -> 2 angular offset mean
+6.278491432759851
+
+# Class transition 1 -> 2 angular offset standard deviation
+0.019087800110323083
+
+# Class transition 1 -> 3 angular offset mean
+5.190488243565383
+
+# Class transition 1 -> 3 angular offset standard deviation
+0.19946451044123814
+
+# Class transition 2 -> 1 angular offset mean
+0.004693874419735303
+
+# Class transition 2 -> 1 angular offset standard deviation
+0.019087800110323083
+
+# Class transition 2 -> 3 angular offset mean
+5.319633375468075
+
+# Class transition 2 -> 3 angular offset standard deviation
+0.1934294990243586
+
+# Class transition 3 -> 1 angular offset mean
+1.0926970636142033
+
+# Class transition 3 -> 1 angular offset standard deviation
+0.19946451044123814
+
+# Class transition 3 -> 2 angular offset mean
+0.9635519317115113
+
+# Class transition 3 -> 2 angular offset standard deviation
+0.1934294990243586
+
+# View transition probability matrix
+0.90 0.05 0.05
+0.05 0.90 0.05
+0.05 0.05 0.90
+
+# Hidden Equilibrium Fraction
+0.2
+
+# Hidden Particles Time Constant
+4.0
+
+# Hidden weight
+0.2
+
+# Motion standard deviation
+1.0
+
+# Max number of mean shift iterations
+20
+
+# Spatial mean shift kernel width
+5.0
+
+# Mean shift positional tolerance
+1.0
+
+# Orientation Motion Standard Deviation
+0.05
+
+# Orientation mean shift kernel width
+0.25
+
+# Orientation mean shift tolerance
+0.05

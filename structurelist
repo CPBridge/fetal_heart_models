@@ -1,0 +1,14 @@
+crux 3 0 1
+apex 0 0 1 2
+base 0 0 1
+mitral_valve_end 3 0 1 2
+mitral_valve_centre 3 1 1
+tricuspid_valve_end 3 0 1
+tricuspid_valve_centre 3 1 1
+aortic_valve 3 0 2
+aorta_3V 1 0 3
+pulmonary_valve 1 0 3
+trachea 0 0 3
+SVC 1 0 3
+spine 0 0 1 2 3
+descending_aorta 0 0 1 2 3
